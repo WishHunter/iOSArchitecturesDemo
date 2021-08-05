@@ -16,3 +16,4 @@ class SearchBuilder {
         return viewController
     }
 }
+
